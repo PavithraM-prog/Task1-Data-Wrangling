@@ -1,0 +1,19 @@
+Column Name,Data Type,Missing Values
+Row ID,int64,0
+Order ID,object,0
+Order Date,object,0
+Ship Date,object,0
+Ship Mode,object,0
+Customer ID,object,0
+Customer Name,object,0
+Segment,object,0
+Country,object,0
+City,object,0
+State,object,0
+Postal Code,float64,11
+Region,object,0
+Product ID,object,0
+Category,object,0
+Sub-Category,object,0
+Product Name,object,0
+Sales,float64,0
